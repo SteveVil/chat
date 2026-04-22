@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Můj Node.js blog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <div>
+          <p class="eyebrow">Node.js + Express</p>
+          <h1>Můj dynamický blog</h1>
+          <p class="subtitle">Jednoduchý blog s články načítanými přes API</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container layout">
+    <aside class="sidebar card">
+      <div class="sidebar-top">
+        <h2>Články</h2>
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="Hledat článek..."
+          aria-label="Hledat článek"
+        />
+      </div>
+
+      <div id="postList" class="post-list">
+        <p class="status">Načítám články...</p>
+      </div>
+    </aside>
+
+    <section class="content card">
+      <article id="postDetail" class="post-detail">
+        <p class="status">Vyber článek ze seznamu.</p>
+      </article>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

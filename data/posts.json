@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "slug": "jak-zacit-s-html",
+    "title": "Jak začít s HTML",
+    "author": "Petr Novák",
+    "date": "2026-04-21",
+    "category": "HTML",
+    "excerpt": "První krok do světa webu: co je HTML a jak s ním začít.",
+    "content": "HTML je základ každé webové stránky. Pomocí HTML vytváříš strukturu obsahu.\n\nNa stránce díky HTML definuješ například:\n- nadpisy\n- odstavce\n- odkazy\n- obrázky\n- seznamy\n\nHTML samo o sobě neřeší vzhled. O vzhled se stará CSS a o interaktivitu JavaScript.\n\nZačít je snadné:\n1. Vytvoř soubor index.html\n2. Přidej základní strukturu dokumentu\n3. Vlož první nadpis a odstavec\n4. Otevři stránku v prohlížeči\n\nJakmile pochopíš HTML, budeš mít pevný základ pro tvorbu moderních webů."
+  },
+  {
+    "id": 2,
+    "slug": "proc-se-ucit-css",
+    "title": "Proč se učit CSS",
+    "author": "Petr Novák",
+    "date": "2026-04-20",
+    "category": "CSS",
+    "excerpt": "Bez CSS web funguje, ale s CSS teprve začne vypadat dobře.",
+    "content": "CSS slouží ke stylování HTML prvků. Pomáhá určit, jak bude stránka vypadat.\n\nPomocí CSS můžeš ovlivnit:\n- barvy\n- velikosti písma\n- mezery\n- rámečky\n- rozložení stránky\n- responzivitu pro mobil a desktop\n\nDíky CSS umíš z obyčejného dokumentu udělat moderní a přehledný web.\n\nDnes se často používají:\n- Flexbox\n- CSS Grid\n- media queries\n- animace a přechody\n\nCSS je pro frontend stejně důležité jako HTML."
+  },
+  {
+    "id": 3,
+    "slug": "k-cemu-je-javascript",
+    "title": "K čemu je JavaScript",
+    "author": "Petr Novák",
+    "date": "2026-04-19",
+    "category": "JavaScript",
+    "excerpt": "JavaScript dává stránce život, reakce a dynamiku.",
+    "content": "JavaScript umožňuje vytvářet interaktivní webové stránky.\n\nNapříklad může:\n- reagovat na kliknutí\n- validovat formuláře\n- otevírat menu\n- načítat data z API\n- měnit obsah bez reloadu stránky\n\nJavaScript běží běžně v prohlížeči, ale pomocí Node.js ho můžeš používat i na serveru.\n\nNa moderním webu se s JavaScriptem setkáš téměř všude."
+  },
+  {
+    "id": 4,
+    "slug": "co-je-node-js",
+    "title": "Co je Node.js",
+    "author": "Petr Novák",
+    "date": "2026-04-18",
+    "category": "Node.js",
+    "excerpt": "Node.js dovoluje spouštět JavaScript i mimo prohlížeč.",
+    "content": "Node.js je prostředí, ve kterém můžeš spouštět JavaScript na serveru.\n\nTo znamená, že v JavaScriptu můžeš vytvářet:\n- webové servery\n- API\n- blogové systémy\n- chat aplikace\n- nástroje pro automatizaci\n\nS Express frameworkem je tvorba backendu velmi pohodlná.\n\nNode.js je skvělá volba pro malé i středně velké webové projekty a výborně se hodí i na první backendový projekt."
+  },
+  {
+    "id": 5,
+    "slug": "co-je",
+    "title": "Co",
+    "author": "Petr",
+    "date": "2026-04-13",
+    "category": "Node.js",
+    "excerpt": "Node.js dovoluje prohlížeč.",
+    "content": "Node.js je prostředí, ve kterém můžeš spouštět JavaScript na serveru.\n\nTo znamená, že v JavaScriptu můžeš vytvářet:\n- webové servery\n- API\n- blogové systémy\n- chat aplikace\n- nástroje pro automatizaci\n\nS Express frameworkem je tvorba backendu velmi pohodlná.\n\nNode.js je skvělá volba pro malé i středně velké webové projekty a výborně se hodí i na první backendový projekt."
+  }
+]
